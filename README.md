@@ -16,7 +16,7 @@
 
 
 
-![Alt Text](../kazibyte/public/images/kazibyte-planing_v01.png)
+![Alt Text](/public/images/kazibyte-planing_v01.png)
 
 
 ## Live
